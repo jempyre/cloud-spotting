@@ -2,7 +2,7 @@
 [Quickstart][qs]
 
 
-[qs]:../../../../docs/quickstart.md
+[qs]:../../../docs/quickstart.md
 
 ## Welcome to GitHub Pages
 
