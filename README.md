@@ -2,7 +2,7 @@
 [Quickstart][qs]
 
 
-[qs]:https://jempyre.github.io/cloud-spotting/docs/quickstart/
+[qs]:https://jempyre.github.io/cloud-spotting/quickstart/
 
 ## Welcome to GitHub Pages
 
